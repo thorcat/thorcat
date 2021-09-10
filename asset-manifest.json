@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.c7855bb3.chunk.css",
-    "main.js": "/static/js/main.03d41357.chunk.js",
-    "main.js.map": "/static/js/main.03d41357.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.47ea5e8e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.47ea5e8e.js.map",
+    "main.js": "/static/js/main.8f96f5a4.chunk.js",
+    "main.js.map": "/static/js/main.8f96f5a4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a9a4f541.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a9a4f541.js.map",
     "static/css/2.c6c80fdd.chunk.css": "/static/css/2.c6c80fdd.chunk.css",
     "static/js/2.e78fc4c2.chunk.js": "/static/js/2.e78fc4c2.chunk.js",
     "static/js/2.e78fc4c2.chunk.js.map": "/static/js/2.e78fc4c2.chunk.js.map",
@@ -16,8 +16,8 @@
     "static/js/5.fb74b893.chunk.js.map": "/static/js/5.fb74b893.chunk.js.map",
     "static/js/6.d8956287.chunk.js": "/static/js/6.d8956287.chunk.js",
     "static/js/6.d8956287.chunk.js.map": "/static/js/6.d8956287.chunk.js.map",
-    "static/js/7.b389f553.chunk.js": "/static/js/7.b389f553.chunk.js",
-    "static/js/7.b389f553.chunk.js.map": "/static/js/7.b389f553.chunk.js.map",
+    "static/js/7.c46e38f1.chunk.js": "/static/js/7.c46e38f1.chunk.js",
+    "static/js/7.c46e38f1.chunk.js.map": "/static/js/7.c46e38f1.chunk.js.map",
     "static/js/8.baacd18d.chunk.js": "/static/js/8.baacd18d.chunk.js",
     "static/js/8.baacd18d.chunk.js.map": "/static/js/8.baacd18d.chunk.js.map",
     "static/js/9.9f075f54.chunk.js": "/static/js/9.9f075f54.chunk.js",
@@ -48,10 +48,10 @@
     "static/media/xdefi-logo.d471fcef.svg": "/static/media/xdefi-logo.d471fcef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.47ea5e8e.js",
+    "static/js/runtime-main.a9a4f541.js",
     "static/css/2.c6c80fdd.chunk.css",
     "static/js/2.e78fc4c2.chunk.js",
     "static/css/main.c7855bb3.chunk.css",
-    "static/js/main.03d41357.chunk.js"
+    "static/js/main.8f96f5a4.chunk.js"
   ]
 }
