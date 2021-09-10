@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.c7855bb3.chunk.css",
-    "main.js": "/static/js/main.f5ffc635.chunk.js",
-    "main.js.map": "/static/js/main.f5ffc635.chunk.js.map",
+    "main.js": "/static/js/main.a165e536.chunk.js",
+    "main.js.map": "/static/js/main.a165e536.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.47ea5e8e.js",
     "runtime-main.js.map": "/static/js/runtime-main.47ea5e8e.js.map",
     "static/css/2.c6c80fdd.chunk.css": "/static/css/2.c6c80fdd.chunk.css",
-    "static/js/2.d45456bb.chunk.js": "/static/js/2.d45456bb.chunk.js",
-    "static/js/2.d45456bb.chunk.js.map": "/static/js/2.d45456bb.chunk.js.map",
+    "static/js/2.e78fc4c2.chunk.js": "/static/js/2.e78fc4c2.chunk.js",
+    "static/js/2.e78fc4c2.chunk.js.map": "/static/js/2.e78fc4c2.chunk.js.map",
     "static/js/3.7c415bd6.chunk.js": "/static/js/3.7c415bd6.chunk.js",
     "static/js/3.7c415bd6.chunk.js.map": "/static/js/3.7c415bd6.chunk.js.map",
     "static/js/4.26320faf.chunk.js": "/static/js/4.26320faf.chunk.js",
@@ -25,7 +25,7 @@
     "index.html": "/index.html",
     "static/css/2.c6c80fdd.chunk.css.map": "/static/css/2.c6c80fdd.chunk.css.map",
     "static/css/main.c7855bb3.chunk.css.map": "/static/css/main.c7855bb3.chunk.css.map",
-    "static/js/2.d45456bb.chunk.js.LICENSE.txt": "/static/js/2.d45456bb.chunk.js.LICENSE.txt",
+    "static/js/2.e78fc4c2.chunk.js.LICENSE.txt": "/static/js/2.e78fc4c2.chunk.js.LICENSE.txt",
     "static/media/Exo2-Regular.0d72bcb5.otf": "/static/media/Exo2-Regular.0d72bcb5.otf",
     "static/media/asset-bnb.30ddcde6.svg": "/static/media/asset-bnb.30ddcde6.svg",
     "static/media/asset-code-icon.c73947cc.svg": "/static/media/asset-code-icon.c73947cc.svg",
@@ -34,8 +34,6 @@
     "static/media/folder.44d46907.svg": "/static/media/folder.44d46907.svg",
     "static/media/icon-tick-fill.5c8e31bb.svg": "/static/media/icon-tick-fill.5c8e31bb.svg",
     "static/media/ledger.74e19b86.svg": "/static/media/ledger.74e19b86.svg",
-    "static/media/logo-mini.c30593a4.svg": "/static/media/logo-mini.c30593a4.svg",
-    "static/media/logo-thorchain-black.a21a0d90.svg": "/static/media/logo-thorchain-black.a21a0d90.svg",
     "static/media/metamask-logo.e21728ae.svg": "/static/media/metamask-logo.e21728ae.svg",
     "static/media/refund.2ca72321.svg": "/static/media/refund.2ca72321.svg",
     "static/media/telegram.7407b4e8.svg": "/static/media/telegram.7407b4e8.svg",
@@ -52,8 +50,8 @@
   "entrypoints": [
     "static/js/runtime-main.47ea5e8e.js",
     "static/css/2.c6c80fdd.chunk.css",
-    "static/js/2.d45456bb.chunk.js",
+    "static/js/2.e78fc4c2.chunk.js",
     "static/css/main.c7855bb3.chunk.css",
-    "static/js/main.f5ffc635.chunk.js"
+    "static/js/main.a165e536.chunk.js"
   ]
 }
