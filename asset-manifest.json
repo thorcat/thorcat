@@ -5,7 +5,7 @@
     "main.js.map": "/thorcat/static/js/main.d4d56678.chunk.js.map",
     "runtime-main.js": "/thorcat/static/js/runtime-main.fddf2304.js",
     "runtime-main.js.map": "/thorcat/static/js/runtime-main.fddf2304.js.map",
-    "static/css/2.4e295c92.chunk.css": "/thorcat/static/css/2.4e295c92.chunk.css",
+    "static/css/2.c6c80fdd.chunk.css": "/thorcat/static/css/2.c6c80fdd.chunk.css",
     "static/js/2.74772188.chunk.js": "/thorcat/static/js/2.74772188.chunk.js",
     "static/js/2.74772188.chunk.js.map": "/thorcat/static/js/2.74772188.chunk.js.map",
     "static/js/3.7c415bd6.chunk.js": "/thorcat/static/js/3.7c415bd6.chunk.js",
@@ -23,7 +23,7 @@
     "static/js/9.9f075f54.chunk.js": "/thorcat/static/js/9.9f075f54.chunk.js",
     "static/js/9.9f075f54.chunk.js.map": "/thorcat/static/js/9.9f075f54.chunk.js.map",
     "index.html": "/thorcat/index.html",
-    "static/css/2.4e295c92.chunk.css.map": "/thorcat/static/css/2.4e295c92.chunk.css.map",
+    "static/css/2.c6c80fdd.chunk.css.map": "/thorcat/static/css/2.c6c80fdd.chunk.css.map",
     "static/css/main.ab9b4867.chunk.css.map": "/thorcat/static/css/main.ab9b4867.chunk.css.map",
     "static/js/2.74772188.chunk.js.LICENSE.txt": "/thorcat/static/js/2.74772188.chunk.js.LICENSE.txt",
     "static/media/Exo2-Regular.0d72bcb5.otf": "/thorcat/static/media/Exo2-Regular.0d72bcb5.otf",
@@ -51,7 +51,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fddf2304.js",
-    "static/css/2.4e295c92.chunk.css",
+    "static/css/2.c6c80fdd.chunk.css",
     "static/js/2.74772188.chunk.js",
     "static/css/main.ab9b4867.chunk.css",
     "static/js/main.d4d56678.chunk.js"
